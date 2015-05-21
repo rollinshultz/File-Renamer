@@ -1,0 +1,27 @@
+
+Click the “Get Directory” button and navigate to the folder you want and select OK.
+You must enter an extension in the Old Extension field, if you want to only change one file type. For example enter 
+“txt” to select only files with that extension, otherwise you will rename all files in that folder. 
+
+Prefix Field:
+You can enter a prefix for the filename to be inserted at the beginning of the filename. You can prefix files with a 
+project name, or company name, or if you are editing a folder created by uploading images from a camera you can 
+prefix them with a date or event name. If you check the sequential numbering checkbox, you could enter things like 
+“Part” and the files will be numbered as Part 1, Part 2, etc. You could also use prefixes like Tutorial, Volume, and 
+Chapter etc.
+Text to Remove:
+Enter Text to Remove from a filename in this field and nothing in the Text to Replace field if you want to remove some 
+text from the filename. r
+Text to Replace:
+Enter text in this field if you want to remove some text and replace it with other text. You may need to include spaces 
+in your replacement text.
+Suffix Field:
+Enter text in this field if you want to append text to the end of a file. 
+Change Filenames:
+Click this button when you are ready to rename your files. When using this button, extension names will be changed if 
+you included them in your entries.
+Change Extension:
+This is the one to use if you only want to change extensions. As usual, enter the old extension to search the files, and 
+enter the new extension you want the file named.
+
+Copyright 2015 created by Rollin Shultz rollinshultz@gmail.com

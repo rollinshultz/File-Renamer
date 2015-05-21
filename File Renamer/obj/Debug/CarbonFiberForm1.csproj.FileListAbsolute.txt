@@ -1,0 +1,18 @@
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\bin\Debug\Math Examples.exe.config
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\CarbonFiberForm1.csprojResolveAssemblyReference.cache
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\MainWindow.baml
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\MainWindow.g.cs
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\App.g.cs
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\Math Examples_MarkupCompile.cache
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\Math Examples.g.resources
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\CarbonFiberForm1.Properties.Resources.resources
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\CarbonFiberForm1.csproj.GenerateResource.Cache
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\bin\Debug\Math Examples.exe
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\bin\Debug\Math Examples.pdb
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\bin\Debug\NetReflector.dll
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\Math Examples.exe
+c:\users\rollin shultz\documents\visual studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\Math Examples.pdb
+C:\Users\Rollin Shultz\Documents\Visual Studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\InstructionsPage.baml
+C:\Users\Rollin Shultz\Documents\Visual Studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\InstructionsPage.g.cs
+C:\Users\Rollin Shultz\Documents\Visual Studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\wndInstructions.baml
+C:\Users\Rollin Shultz\Documents\Visual Studio 2013\Projects\CarbonFiberForm1\CarbonFiberForm1\obj\Debug\wndInstructions.g.cs

@@ -1,0 +1,55 @@
+﻿<Window x:Name="wndInstructions1" x:Class="FileRenamer.wndInstructions"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="wndInstructions" Height="360" Width="640" WindowStyle="None">
+    <Grid x:Name="grdInstructions1" Width="640" Height="360">
+        <Grid x:Name="grdMainGrid" Width="640" Height="360">
+            <Grid.Background>
+                <ImageBrush ImageSource="images/carbonCrysis.jpg" Stretch="None"/>
+            </Grid.Background>
+                <Border x:Name="brdFrame" BorderThickness="20" HorizontalAlignment="Left" Height="340" Margin="0" VerticalAlignment="Top" Width="640">
+                    <Border.BorderBrush>
+                        <ImageBrush ImageSource="images/Brushed-metal-240x180.jpg"/>
+                    </Border.BorderBrush>
+                </Border>
+            <FlowDocumentScrollViewer x:Name="ctlDocViewer" FontFamily="Vani" FontSize="12" HorizontalAlignment="Left" Margin="20,20,20,50" VerticalAlignment="Top" Foreground="#FF8CEEE5">
+                <FlowDocumentScrollViewer.Background>
+                    <ImageBrush ImageSource="images/carbonCrysis.jpg" Stretch="UniformToFill"/>
+                </FlowDocumentScrollViewer.Background>
+                <FlowDocument>
+                    <Section>
+                        <!--<Paragraph Name="heading1" FontSize="14"></Paragraph>-->
+                        <Paragraph Name= "Title" FontSize="16"><Bold>Instructions:</Bold></Paragraph>
+                        <!--<Paragraph Name="heading2" FontSize="14"></Paragraph>-->
+                        <Paragraph>Click the <Bold>“Get Directory”</Bold> button and navigate to the folder you want and select OK.
+                            You <Bold>must</Bold> enter an extension in the Old Extension field, if you want to only change <Bold>one</Bold>
+                            file type. For example enter “txt” to select only files with that extension, otherwise you will rename all files in that folder.
+                        </Paragraph>
+                        <Paragraph Name="heading3" FontSize="14"><Bold>Prefix Field:</Bold> </Paragraph>
+                        <Paragraph>You can enter a prefix for the filename to be inserted at the beginning of the 
+                            filename. You can prefix files with a project name, or company name, or if you are editing a folder created by uploading 
+                            images from a camera you can prefix them with a date or event name. If you check the sequential numbering checkbox, 
+                            you could enter things like “Part” and the files will be numbered as Part 1, Part 2, etc. You could also use prefixes 
+                            like Tutorial, Volume, and Chapter etc.</Paragraph>
+                        <Paragraph Name="heading4" FontSize="14"><Bold>Text to Remove:</Bold></Paragraph>
+                        <Paragraph>Enter Text to Remove from a filename in this field and nothing in the Text to Replace field if you want to remove some text from the filename.</Paragraph>
+                        <Paragraph Name="heading5" FontSize="14"><Bold>Text to Replace:</Bold></Paragraph>
+                        <Paragraph>Enter text in this field if you want to remove some text and replace it with other text. You may need to include spaces in your replacement text.</Paragraph>
+                        <Paragraph Name="heading6" FontSize="14"><Bold>Suffix Field:</Bold></Paragraph>
+                        <Paragraph>Enter text in this field if you want to append text to the end of a file.</Paragraph>
+                        <Paragraph Name="heading7" FontSize="14"><Bold>Change Filenames:</Bold></Paragraph>
+                        <Paragraph>Click this button when you are ready to rename your files. When using this button, extension names will 
+                            be changed if you included them in your entries.</Paragraph>
+                        <Paragraph Name="heading8" FontSize="14">Change Extension:</Paragraph>
+                        <Paragraph>This is the one to use if you only want to change extensions. As usual, enter the old extension to search 
+                            the files, and enter the new extension you want the file named.</Paragraph>
+                        <Paragraph>Copyright 2015 created by Rollin Shultz rollinshultz@gmail.com</Paragraph>
+                        <Paragraph Name="heading9" FontSize="14"></Paragraph>
+                    </Section>
+                </FlowDocument>
+            </FlowDocumentScrollViewer>
+            <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="506,273,0,0" VerticalAlignment="Top" Width="75" FontFamily="Vani" FontSize="14" Click="btnClose_Click"/>
+        </Grid>
+        
+    </Grid>
+</Window>
